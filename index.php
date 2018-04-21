@@ -1,0 +1,1 @@
+If you see this in your browser, at http://localhost:8000/index.php, then you have docker working! Congrats!
